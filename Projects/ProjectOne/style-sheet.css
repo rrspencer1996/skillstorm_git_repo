@@ -47,11 +47,13 @@ width: 1000px;
 height: 200px;
 background:rgb(39, 61, 134);
 align-items: center;
+margin-bottom: 20px;
 }
 .childdiv2{
     width: 1000px;
     height: 200px;
-    background:rgb(134, 39, 39)
+    background:rgb(134, 39, 39);
+    margin-bottom: 20px;
 }
 .childdiv3{
     width: 1000px;
@@ -144,6 +146,7 @@ article table td {
 }
 
 footer {
+    margin-top: 100px;
     display: flex;
     grid-column: span 3;
     background-color: rgb(230, 230, 230);
